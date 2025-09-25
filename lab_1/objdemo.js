@@ -1,3 +1,3 @@
-// objdemo.js вЂ“ РІС‹РІРѕРґ С‚РµРєСѓС‰РµР№ РґР°С‚С‹ РІ Internet Explorer
+// objdemo.js – вывод текущей даты в Internet Explorer
 var iexplorer=new ActiveXObject("InternetExplorer.Application");
-iexplorer.Visible=true; // РїРѕРєР°Р· РѕРєРѕС€РєР°
+iexplorer.Visible=true; // показ окошка

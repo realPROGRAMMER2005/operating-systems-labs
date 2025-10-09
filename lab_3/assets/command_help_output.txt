@@ -1,4 +1,4 @@
-﻿Displays a list of files and subdirectories in a directory.
+Displays a list of files and subdirectories in a directory.
 
 DIR [drive:][path][filename] [/A[[:]attributes]] [/B] [/C] [/D] [/L] [/N]
   [/O[[:]sortorder]] [/P] [/Q] [/R] [/S] [/T[[:]timefield]] [/W] [/X] [/4]

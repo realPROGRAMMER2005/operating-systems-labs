@@ -26,10 +26,10 @@ function getDosHelp(command) {
 
 var helpText = getDosHelp(commandName);
 
-// Сохраняем в ANSI (это будет корректно для английского текста)
+
 var fso = new ActiveXObject("Scripting.FileSystemObject");
 var file = fso.CreateTextFile(fullPath, true);
 file.Write(helpText);
 file.Close();
 
-WScript.Echo("English help for command " + commandName + " saved to file: " + fullPath);
+WScript.Echo("Help for command " + commandName + " saved to file: " + fullPath);

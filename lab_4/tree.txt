@@ -1,0 +1,57 @@
+-config
+| -Theme
+| |AutoEQCompressedHarman4.txt
+| |AutoEQCompressedIEF4.txt
+| |AutoEQCompressedIEFBass4.txt
+| |config.txt
+| |demo.txt
+| |Equalizer Default.peace
+| |example.txt
+| |Headphones and Hearing Test.peace
+| |iir_lowpass.txt
+| |Last Configuration.peace
+| |multichannel.txt
+| |Peace.chm
+| |Peace.exe
+| |peace.ini
+| |peace.txt
+| |PeaceSetup.exe
+| |PUBG EQ.peace
+| |ReadmePeace.txt
+| |selective_delay.txt
+-qt
+| -iconengines
+| | |qsvgicon.dll
+| -imageformats
+| | |qico.dll
+| | |qsvg.dll
+| -platforms
+| | |qwindows.dll
+| -styles
+| | |qmodernwindowsstyle.dll
+| -tls
+| | |qschannelbackend.dll
+-VSTPlugins
+|backup_High Definition Audio Device_Динамики.reg
+|backup_NVIDIA High Definition Audio_PHL 273V7.reg
+|Benchmark.exe
+|Configuration reference (online).url
+|Configuration tutorial (online).url
+|DeviceSelector.exe
+|Editor.exe
+|EqualizerAPO.dll
+|fftw3f.dll
+|msvcp140.dll
+|msvcp140_1.dll
+|msvcp140_2.dll
+|Qt6Core.dll
+|Qt6Gui.dll
+|Qt6Network.dll
+|Qt6Svg.dll
+|Qt6Widgets.dll
+|sndfile.dll
+|Uninstall.exe
+|UpdateChecker.exe
+|vcruntime140.dll
+|vcruntime140_1.dll
+|VoicemeeterClient.exe
